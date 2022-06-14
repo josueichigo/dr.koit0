@@ -8,12 +8,12 @@ h1{
     font-size: 50px;
 }
 h2{
-	font-family: 'impact' ;
+	font-family: 'arial' ;
         font-size: 45px;
         color: white;
         width: 600px;
         height: 462px;
-        border: 5px solid orange;
+        border: 5px solid black;
         border-radius: 10px;
         background-image: url(./eye2.gif);
         background-color: purple;
